@@ -1,6 +1,6 @@
 # Security-Aware Data Offloading & Optimization in Healthcare Systems
 
-### 📄 [Read the Full M.Tech Thesis (PDF)](./MTech_Thesis_Final.pdf)
+### 📄 [Read the Full M.Tech Thesis (PDF)](./802332039_KashishKaushal_Seminar.pdf)
 
 📌 Project Overview
 This project presents a Secure Federated Learning (FL) Framework designed for healthcare environments. It addresses the challenges of handling sensitive patient data by implementing a dynamic offloading strategy across a Cloud-Edge-Fog continuum.
